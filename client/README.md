@@ -1,37 +1,11 @@
-## Getting Started
+Welcome to Get-Help, a crowdfunding project built on the Ethereum blockchain using Solidity, Vite, and ThirdWeb.
 
-Create a project using this example:
+Our platform allows individuals and organizations to create campaigns and receive funding from supporters around the world. All transactions and pledges are recorded on the Ethereum blockchain, ensuring transparency and security for both campaign creators and donors.
 
-```bash
-npx thirdweb create --template vite-javascript-starter
-```
+To use our platform, you will need a web3-enabled browser and a wallet with Ethereum (ETH) to make pledges. Once you have that, you can easily browse and support campaigns on our platform. As a campaign creator, you can create, manage and track your campaign's progress on the platform.
 
-You can start editing the page by modifying `src/main.jsx`. The page auto-updates as you edit the file.
+We have built Get-Help using Vite, a fast and light-weight development tool, and ThirdWeb, a framework that allows for easy integration of web3 functionality. This makes our platform efficient and user-friendly.
 
-On `src/index.jsx`, you'll find our `ThirdwebProvider` wrapping your app,
-this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
+We believe that blockchain technology has the potential to revolutionize the way we fund and support causes, and we're excited to be at the forefront of this movement with Get-Help.
 
-### Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
-
-## Learn More
-
-To learn more about thirdweb, Vite and React, take a look at the following resources:
-
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Vite Documentation](https://vitejs.dev/guide/) - learn about Vite features.
-- [React documentation](https://reactjs.org/) - learn React.
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+Thank you for your support and we hope you enjoy using our platform!
