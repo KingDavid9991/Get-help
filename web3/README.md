@@ -1,47 +1,11 @@
-## Getting Started
+Welcome to Get-Help, a crowdfunding project built on the Ethereum blockchain using Solidity, Vite, and ThirdWeb.
 
-Create a project using this example:
+My platform allows individuals and organizations to create campaigns and receive funding from supporters around the world. All transactions and pledges are recorded on the Ethereum blockchain, ensuring transparency and security for both campaign creators and donors.
 
-```bash
-npx thirdweb create --contract --template hardhat-javascript-starter
-```
+To use my platform, you will need a web3-enabled browser and a wallet with Ethereum (ETH) to make pledges. Once you have that, you can easily browse and support campaigns on my platform. As a campaign creator, you can create, manage and track your campaign's progress on the platform.
 
-You can start editing the page by modifying `contracts/Contract.sol`.
+I have built Get-Help using Vite, a fast and light-weight development tool, and ThirdWeb, a framework that allows for easy integration of web3 functionality. This makes my platform efficient and user-friendly.
 
-To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) to learn more.
+I believe that blockchain technology has the potential to revolutionize the way we fund and support causes, and I'm excited to be at the forefront of this movement with Get-Help.
 
-## Building the project
-
-After any changes to the contract, run:
-
-```bash
-npm run build
-# or
-yarn build
-```
-
-to compile your contracts. This will also detect the [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) detected on your contract.
-
-## Deploying Contracts
-
-When you're ready to deploy your contracts, just run one of the following command to deploy you're contracts:
-
-```bash
-npm run deploy
-# or
-yarn deploy
-```
-
-## Releasing Contracts
-
-If you want to release a version of your contracts publicly, you can use one of the followings command:
-
-```bash
-npm run release
-# or
-yarn release
-```
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+Thank you for your support and I hope you enjoy using my platform!
